@@ -1,0 +1,157 @@
+/* ------------------------------------ style detail feed -------------------------------- */
+.modallg {
+    width: 150%;
+    border-radius: 5px;
+    height: 500px;
+}
+
+.modalleft {
+    margin-left: -120px;
+    margin-top: 4%;
+}
+
+.modal-content {
+    background-color: #1F1F1F !important;
+}
+
+.iconfaTrashAlt {
+    margin-left: 250px;
+    position: relative;
+    margin-top: -290px !important;
+}
+
+.gambarfeed {
+    margin-top: -15px;
+    margin-left: -18px;
+    /* background-color: blanchedalmond; */
+    width: 500px;
+    height: 500px;
+    display: grid;
+    place-items: center;
+    padding-right: 25px;
+    padding-left: 15px;
+    overflow: hidden;
+}
+
+.bgcard {
+    background-color: #1F1F1F;
+    object-fit: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.gambardetail {
+    width: 100%;
+    max-height: 100%;
+    border-top-right-radius: 0px;
+    justify-items: center !important;
+    object-fit: cover;
+}
+
+
+.mtComment {
+    margin-top: -27px !important;
+    position: relative !important;
+}
+
+.cardcoment {
+    margin-left: -30px;
+}
+
+.circlement {
+    width: 30px;
+    height: 30px;
+    background: linear-gradient(90deg, #4DD4F7 0%, #9090FB 36.46%, #FF6B81 71.35%, #FBDF63 100%);
+    border-radius: 50%;
+}
+
+.cardcoment {
+    background-color: #1F1F1F;
+    border: none;
+    padding-bottom: 0px !important;
+}
+
+.profilement {
+    border-radius: 50%;
+    width: 26px;
+    height: 26px;
+    margin-left: 5%;
+    margin-top: 2px;
+}
+
+.nameprofilement {
+    color: rgb(235, 235, 235);
+    font-size: 13px;
+    position: absolute;
+    margin-left: 38px;
+    margin-top: 4px;
+}
+
+.captioncoment {
+    color: rgb(182, 182, 182);
+    font-size: 12px;
+    margin-left: 37px;
+    margin-top: -5px;
+    width: 200px;
+}
+
+.garis {
+    color: white;
+    margin-top: -1px;
+}
+
+.inputcoment {
+    height: 40px;
+    border: none;
+    font-size: 12px;
+    color: rgb(204, 204, 204);
+    margin-top: 100px;
+}
+
+.inputcoment:focus {
+    border: none;
+}
+
+.pagecpmment {
+    height: 280px;
+    overflow-y: auto;
+    z-index: 99999;
+}
+
+.commentInput {
+    margin-top: 210px;
+    width: 270px;
+    position: fixed;
+}
+
+.commentloop {
+    color: white;
+    max-height: 300px !important;
+}
+
+.iconment {
+    padding: 0px;
+    height: 2px;
+}
+
+.iconment {
+    color: white !important;
+    font-size: 18px;
+}
+
+.icon3 {
+    margin-top: 110px !important;
+    margin-right: 12px;
+    font-size: 14px;
+}
+
+.mlprof {
+    margin-left: 2px;
+}
+
+.likements {
+    position: absolute;
+    color: rgb(204, 204, 204) !important;
+    font-size: 11px;
+    margin-top: 180px;
+}

@@ -1,0 +1,85 @@
+/* ------------------------------------ style chat -------------------------------- */
+.barmassage {
+    width: 430% !important;
+    background: rgba(210, 210, 210, 0.25);
+    color: white;
+    border: none;
+    margin-top: -30px !important;
+}
+
+.barmassage:focus {
+    background: rgba(210, 210, 210, 0.25);
+    border: none;
+}
+
+.massegechatbox {
+    padding-bottom: 20px;
+}
+
+.massegae {
+    background-color: turquoise;
+    height: 80px;
+    background: rgba(39, 39, 39);
+    margin-left: 29%;
+    display: inline !important;
+}
+
+.profileChat {
+    border-radius: 50px;
+    width: 40px;
+    height: 39px;
+    margin-top: 2px;
+    margin-left: -1px;
+}
+
+.boxproFile {
+    width: 44px;
+    height: 42px;
+    background: linear-gradient(90deg, #4DD4F7 0%, #9090FB 36.46%, #FF6B81 71.35%, #FBDF63 100%);
+    border-radius: 50px;
+}
+
+.inputchat {
+    background: rgba(210, 210, 210, 0.25);
+    border: none;
+}
+
+.btnSend {
+    background: linear-gradient(90deg, #4DD4F7 0%, #9090FB 36.46%, #FF6B81 71.35%, #FBDF63 100%);
+    border: none !important;
+    color: white;
+}
+
+.inputchat:focus {
+    border: none !important;
+}
+
+
+.btnSend:hover {
+    background: linear-gradient(90deg, #4DD4F7 0%, #9090FB 36.46%, #FF6B81 71.35%, #FBDF63 100%);
+}
+
+.btnSend:focus {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+
+  .mtChat {
+      margin-top: -18px !important;
+  }
+
+  .boxChat {
+      background-color: rgba(210, 210, 210, 0.25) !important;
+      padding: 10px;
+      border-top-left-radius: 8px;
+      border-bottom-left-radius: 8px;
+      border-bottom-right-radius: 8px;
+  }
+
+  .boxChatSender {
+    background-color: rgba(210, 210, 210, 0.25) !important;
+    padding: 10px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+  }
