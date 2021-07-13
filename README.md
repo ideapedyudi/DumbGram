@@ -1,0 +1,2 @@
+# DumbGram
+platform sosial media
