@@ -4,13 +4,13 @@ aplikasi sosial media dimana kita bisa shere photo and video. dan jugak like, co
 # View
 
 #### Beranda
-<img src="https://github.com/ideapedyudi/DumGram/blob/stable/ss%20dumbgram/landingpage.gif" style="text-align : center;" > </img>
+<img src="https://github.com/ideapedyudi/DumbGram/blob/stable/ss%20dumbgram/landingpage.gif" style="text-align : center;" > </img>
 
 #### Register
-<img src="https://github.com/ideapedyudi/DumGram/blob/stable/ss%20dumbgram/registrasi.jpg" style="text-align : center;" > </img>
+<img src="https://github.com/ideapedyudi/DumbGram/blob/stable/ss%20dumbgram/registrasi.jpg" style="text-align : center;" > </img>
 
 #### Login
-<img src="https://github.com/ideapedyudi/DumGram/blob/stable/ss%20dumbgram/login.jpg" style="text-align : center;" > </img>
+<img src="https://github.com/ideapedyudi/DumbGram/blob/stable/ss%20dumbgram/login.jpg" style="text-align : center;" > </img>
 
 #### Edit Profile
 <img src="https://github.com/ideapedyudi/DumGram/blob/stable/ss%20dumbgram/edit%20profile.jpg" style="text-align : center;" > </img>
